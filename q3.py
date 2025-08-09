@@ -5,6 +5,7 @@ def update_dictionary(dct, key, value):
     - If the key already exists in dct, print the original value, then update its value.
     - Return the updated dictionary.
     """
+    not done
     return
 
 
