@@ -5,7 +5,13 @@ def find_first_negative(lst):
     - Return the first negative number if found, otherwise return "No negatives".
     - Use a while loop to implement this.
     """
-    return
+    index=0
+    while index<len(lst):
+        if lst[index]<0:
+            return lst[index]
+        index += 1
+            
+    return "No negatives"
 
 
 # Task 2
