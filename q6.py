@@ -19,5 +19,5 @@ def find_first_negative(lst):
 # - [3, 5, -1, 7, -2, 8]
 # - [2, 10, 7, 0]
 
-print(find_first_negative([3,5,-1,7,-2,8])
-print(find_first_negative([2,10,7,0])
+print(find_first_negative([3,5,-1,7,-2,8]))
+print(find_first_negative([2,10,7,0]))
