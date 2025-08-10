@@ -8,10 +8,10 @@ def update_dictionary(dct, key, value):
     
     if key in dct:
         print("Original Value:{dct[key]}")
-        dct[key]=value
-        return dct
+    dct[key] = value
+    return dct
     
-    return
+    
 
 
 # Task 2
